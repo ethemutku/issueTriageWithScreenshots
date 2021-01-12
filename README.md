@@ -1,4 +1,4 @@
-# Issue Triage with Screenshots
+# Improving Issue Triage with Screenshots
 
 This project improves IssueTAG **(Aktas and Yilmaz, 2020)** with the use of screenshots attached to issue reports in our industrial case. It includes code on how we extract the textual features in attached screenshots and how we include them in our classification pipeline. 
 
