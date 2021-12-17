@@ -6,15 +6,7 @@ Due to security reasons, we are able to publish (in full, or in partial) neither
 
 ## IssueTAG
 
-IssueTAG is a software issue report assignment tool, which has been fully operational in an industrial setting since Jan 12, 2018, making automated assignments for all the issue reports submitted (https://github.com/ethemutku/IssueTAG). Our goal in this work is to identify an approach that can produce better assignment accuracies than using only the suject and description features of issue reports as input.
-
-### Extraction of Textual Data from Attached Screenshots with OCR
-
-To be added... 
-
-### Including the Textual Features from Attached Screenshots in the Pipeline
-
-To be added...
+IssueTAG is a software issue report assignment tool, which has been fully operational in an industrial setting since Jan 12, 2018, making automated assignments for all the issue reports submitted (https://github.com/ethemutku/IssueTAG) using the attached screenshots. The paper is in progress, so the details other than the experimentation code will be available here soon.
 
 ## References
 
