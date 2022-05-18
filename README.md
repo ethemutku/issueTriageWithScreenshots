@@ -10,4 +10,4 @@ IssueTAG is a software issue report assignment tool, which has been fully operat
 
 ## References
 
-[1] Aktas, E.U. & Yilmaz, C. (2020). [https://link.springer.com/article/10.1007/s10664-020-09846-3](Automated Issue Assignment: Results and Insights from an Industrial Case.) Empirical Software Engineering Journal, 25, 3544-3589.
+[https://link.springer.com/article/10.1007/s10664-020-09846-3]([1] Aktas, E.U. & Yilmaz, C. (2020). Automated Issue Assignment: Results and Insights from an Industrial Case. Empirical Software Engineering Journal, 25, 3544-3589.)
