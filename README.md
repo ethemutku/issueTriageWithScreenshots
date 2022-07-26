@@ -6,7 +6,16 @@ Due to security and privacy reasons, we are able to publish (in full, or in part
 
 ## IssueTAG
 
-IssueTAG is a software issue report assignment tool, which has been fully operational in an industrial setting since Jan 12, 2018, making automated assignments for all the issue reports submitted [IssueTAG](https://github.com/ethemutku/IssueTAG) using the attached screenshots [1]. In this work, we show that we can improve its performance by using the screenshots attached to the issue reports. This repository includes the scripts which are similar to the ones we used in order to carry out the experiments.
+IssueTAG is a software issue report assignment tool, which has been fully operational in an industrial setting since Jan 12, 2018, making automated assignments for all the issue reports submitted in the industrial setting [IssueTAG](https://github.com/ethemutku/IssueTAG) [1]. In this work, we show that we can improve its performance by using the screenshots attached to the issue reports. This repository includes the scripts which are similar to the ones we used in order to carry out the experiments.
+
+## Getting Started
+
+The repository includes the following scripts: 
+
+multi_source.ipynb
+single_source_image.ipynb
+single_source_text.ipynb
+
 
 ## References
 
