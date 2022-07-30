@@ -10,7 +10,7 @@ IssueTAG is a software issue report assignment tool, which has been fully operat
 
 ## Getting Started
 
-The repository includes the following Jupyter Notebook scripts coded with Python 3: 
+The repository includes the following **Jupyter Notebook** scripts coded with **Python 3**: 
 
 * multi_source.ipynb
 * single_source_image.ipynb
