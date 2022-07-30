@@ -1,6 +1,6 @@
 # Improving Issue Triage with Attached Screenshots
 
-This project improves **IssueTAG [1]** with the use of screenshots attached to issue reports in our industrial case ([Softtech Inc.](https://softtech.com.tr/)). It includes code on how we include textual and visual features extracted from the subject, description and screenshot attachments in our classification pipeline. 
+This project improves **IssueTAG [1]** with the use of screenshots attached to issue reports in our industrial case ([Softtech Inc.](https://softtech.com.tr/)). It includes code on how we include textual and visual features extracted from the **subject**, **description** and **screenshot attachments** in our classification pipeline. 
 
 Due to security and privacy reasons, we are able to publish (in full, or in partial) neither the issue reports used in these studies nor the scripts regarding the **SVM_TA_2** model described in our paper. However, other scripts, which are similar to the ones we used in order to carry out the experiments for the issue assignment approach to include screenshot attachments, can be found in this repository. 
 
