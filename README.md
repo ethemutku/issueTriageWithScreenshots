@@ -33,6 +33,8 @@ Some of the issue reports in the csv file will be used as training data and some
 
 All of the three scripts will ask you the name of the issue report file, and then, the creation year and months of training and test issue reports for filtering. They will automatically compose the training and testing data, and pre-process the textual data to obtain the related tf-idf representations. 
 
+For more information on the approaches we used for classification, please check Section 5 of our paper [2]. In a nutshell:
+
 The single-source approaches that use textual information only (i.e. single_source_text.ipynb), use the **subject** and **description** attributes of an issue report, which should be provided in the input csv file. 
 
 The single-source approaches that use visual information only (i.e. single_source_image.ipynb), use the attached screenshots as input. 
@@ -42,3 +44,5 @@ The single-source approaches that use visual information only (i.e. single_sourc
 ## References
 
 [[1] Aktas, E.U. & Yilmaz, C. (2020). Automated Issue Assignment: Results and Insights from an Industrial Case. Empirical Software Engineering Journal, 25, 3544-3589.](https://link.springer.com/article/10.1007/s10664-020-09846-3)
+
+[[2] Aktas, E.U. & Yilmaz, C. (2022). Using Screenshot Attachments in Issue Reports for Triaging. Under review.](...)
