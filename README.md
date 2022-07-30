@@ -37,9 +37,9 @@ For more information on the approaches we used for classification, please check 
 
 The single-source approaches that use textual information only (i.e. single_source_text.ipynb), use the **subject** and **description** attributes of an issue report, which should be provided in the input csv file. 
 
-The single-source approaches that use visual information only (i.e. single_source_image.ipynb), use the attached screenshots as input. 
+The single-source approaches that use visual information only (i.e. single_source_image.ipynb), use the attached screenshots as input. For the models that extract the textual information present in the attachments using OCR, the OCR data should have been provided in the input .csv file in a seperate column. For the models that extract visual features from the screenshot attachments, the images should be provided in the folders, "train_images" and "test images".
 
-The single-source approaches that use visual information only (i.e. single_source_image.ipynb), use both. 
+Note that, the multi-source approaches combine the textual and visual features (multi_source.ipynb). In order to match the issue report in the csv file and the related image, the name of the image should be provided in the csv file in a seperate column. 
 
 ## References
 
