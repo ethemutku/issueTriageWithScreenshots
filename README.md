@@ -12,11 +12,9 @@ IssueTAG is a software issue report assignment tool, which has been fully operat
 
 The repository includes the following scripts: 
 
-multi_source.ipynb
-
-single_source_image.ipynb
-
-single_source_text.ipynb
+* multi_source.ipynb
+* single_source_image.ipynb
+* single_source_text.ipynb
 
 Before running any script, the issue reports should have been downloaded and saved as a csv file. If you have a stop-word list, assign the list to the variable "stop_word_list". Some of the issue reports in the csv file will be used as training data and some of them as test data. So, decide on the issue reports to be used as training data, and the issue reports to be used as test data (i.e. the year and month/s they are created in)  before running the scripts. Logically, the issue reports to be used as test data should have been created after the issue reports to be used as training data.  All of the three scripts will ask you the name of the issue report file, and then, the year and months when training and test reports are created. They will automatically compose the training and testing data and pre-process the textual data to obtain the related tf-idf representations. 
 
