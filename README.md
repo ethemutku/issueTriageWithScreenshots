@@ -16,7 +16,7 @@ The repository includes the following **Jupyter Notebook** scripts coded with **
 * single_source_image.ipynb
 * single_source_text.ipynb
 
-We recommend you to download [Anaconda](https://www.anaconda.com/products/distribution) which also installs **Jupyter Notebook** on your computer with most of the packages needed. The following packages are needed to run the scripts, which can be easily installed with the **pip install ...** command in **Anaconda Prompt**. 
+We recommend you to download [Anaconda](https://www.anaconda.com/products/distribution) which also installs **Jupyter Notebook** on your computer with most of the packages needed. The following packages are needed to run the scripts, which can be easily installed with the **pip install ...** command in Anaconda Prompt. 
 
 * re
 * pandas
