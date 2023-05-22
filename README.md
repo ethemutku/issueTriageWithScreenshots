@@ -45,4 +45,4 @@ Note that, the multi-source approaches combine the textual and visual features (
 
 [[1] Aktas, E.U. & Yilmaz, C. (2020). Automated Issue Assignment: Results and Insights from an Industrial Case. Empirical Software Engineering Journal, 25, 3544-3589.](https://link.springer.com/article/10.1007/s10664-020-09846-3)
 
-[[2] Aktas, E.U. & Yilmaz, C. (2022). Using Screenshot Attachments in Issue Reports for Triaging. Under review.](...)
+[[2] Aktas, E.U. & Yilmaz, C. (2022). Using Screenshot Attachments in Issue Reports for Triaging. Empirical Software Engineering Journal, 27, Article number: 181.](https://link.springer.com/article/10.1007/s10664-022-10228-0)
